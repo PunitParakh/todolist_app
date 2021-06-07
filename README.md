@@ -1,16 +1,11 @@
-# todolist_app
+## Let's Todo 
+Let's Todo App is an cross plateform app built on flutter. It is an app where user can store there various remainder or precisiouly ther tasks that they have to perform. The app provide various functinality such as:-
 
-A new Flutter project.
+1. Add task.
+2. Delete task.
+3. Show number of tasks.
+4. check/uncheck a task.
 
-## Getting Started
+This repositry is free for all and anybody can use this project, you just have to fork it and you will get a copy of it.
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+So, what are you waiting for..
